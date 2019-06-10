@@ -4,9 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel build ./app/app.js -d ./build/resources/app/ -o app.js"
+    "start": "yarn cp && parcel build ./app/app.js -d ./build/resources/app/ -o app.js",
+    "cp": "copyfiles -f ./app/html/*.* ./build/resources"
   },
   "devDependencies": {
+    "copyfiles": "^2.1.0",
     "deskgap": "^0.1.0"
   }
 }
