@@ -1,0 +1,1 @@
+this is a personal html/js to exe template im working on. to use must use yarn and run yarn on root and app directorys, gui files go in app/ and backend goes in main/
