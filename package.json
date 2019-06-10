@@ -6,7 +6,7 @@
   "scripts": {
     "build": "yarn cp && parcel build ./app/app.js -d ./build/resources/app/ -o app.js",
     "cp": "copyfiles -f -V ./main/*.* ./exefiles/resources/app",
-    "make":"make.bat && yarn build"
+    "make":"echo \"make.bat\" && yarn build"
   },
   "devDependencies": {
     "copyfiles": "^2.1.0",
