@@ -1,0 +1,12 @@
+{
+  "name": "deskup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel build ./app/app.js -d ./build/resources/app/ -o app.js"
+  },
+  "devDependencies": {
+    "deskgap": "^0.1.0"
+  }
+}
