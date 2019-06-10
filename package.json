@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "yarn cp && parcel build ./app/app.js -d ./build/resources/app/ -o app.js",
-    "cp": "copyfiles -f -V ./main/*.* ./exefiles/resources/app",
+    "cp": "copyfiles -f -V ./main/*.* ./build/resources/app",
     "make":"echo \"make.bat\" && yarn build"
   },
   "devDependencies": {
