@@ -1,7 +1,7 @@
 # this is a personal html/js to exe template im working on.
  to use must use yarn and run yarn on root and app directories
 # Gui 
-    _ files go in __app/__
+files go in __app__
 # Backend
 goes in __main/__
 
