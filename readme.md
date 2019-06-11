@@ -1,9 +1,9 @@
 # this is a personal html/js to exe template im working on.
  to use must use yarn and run yarn on root and app directories
 # gui 
-    -files go in app/
+    ** files go in app/
 # backend
-    -goes in main/
+    ** goes in main/
 
 # to dist - use 7zip or winrar
 1. build app
