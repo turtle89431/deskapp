@@ -5,7 +5,7 @@
 # Backend
 >goes in  __main/__
 
-# to dist - use 7zip or winrar
+# to dist - use @7zip or @winrar
 1. build app
 2. open dist with 7zip or winrar
 3. replace and overite the resources folder with ./build/resources
