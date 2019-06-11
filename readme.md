@@ -5,8 +5,7 @@
 # Backend
 >goes in  __main/__
 
-# to dist - use 
-[winrar](www.rarlabs.com)
+# to dist - use  [winrar](www.rarlabs.com)
 1. build app
 2. open dist.exe with winrar
 3. replace and overite the resources folder with ./build/resources
